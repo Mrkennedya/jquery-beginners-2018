@@ -1,0 +1,29 @@
+html {
+  font-size: 100%;
+  box-sizing: border-box;
+}
+
+* {
+  box-sizing: inherit;
+}
+
+
+body {
+  font-family: 'PT Serif', 'Bodoni MT', 'Georgia', serif;
+  background: #efefef; /* keep */
+  color: #242222; /* keep */
+  margin: auto; /* keep */
+}
+
+h1 {
+  font-family: 'Roboto', 'Geneva', 'Trebuchet MS', sans-serif;
+}
+
+.header {
+  text-align: center;
+}
+
+.fire-photo {
+  display: block;
+  max-width: 100%;
+}
